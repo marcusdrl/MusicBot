@@ -23,4 +23,4 @@ async def on_command_error(ctx, error):
         await ctx.channel.send("```Houve um erro -> Muitos argumentos para play."
                                "\nExemplo de como chamar o comando: !play URL```")
 
-bot_exec.run(config('TOKEN'))
+bot_exec.run(config('TOKEN')) # chama TOKEN diramente do arquivo .env utilizando decouple
