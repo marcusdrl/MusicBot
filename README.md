@@ -1,6 +1,6 @@
 # MusicBot (para DISCORD)
 Este é o código de um BOT para trocar URLs do Youtube diretamente do seu canal de voz do discord:
-**Atenção! Se for utilizar o código fonte para criar um bot seu próprio, fique atento ao path do arquivo 'FFMPEG.exe' que é o arquivo utilizado para reproduzir o conteúdo obtido da URL fornecida... então se você não possuir o arquivo, primeiramente terá que fazer o download e depois adicionar o path no código.**
+**Atenção! Se for utilizar o código fonte para criar seu bot, fique atento ao path do arquivo 'FFMPEG.exe' (utilizado no arquivo bot_config.py) que é o arquivo utilizado para reproduzir o conteúdo obtido da URL fornecida... então se você não possuir o arquivo, primeiramente terá que fazer o download e depois adicionar o path no código.**
 <br>
 <br>
 **COMANDOS**
